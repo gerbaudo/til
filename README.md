@@ -17,6 +17,8 @@ _1 TILs and counting..._
 * [Linux](#linux)
 * [Screen](#screen)
 
+### Emacs
+- [Repeat macro until end of file](emacs/repeat-macro-until-end-of-file.md)
 ### Screen
 - [Avoid Pause Transmission](screen/avoid-pause-transmission.md)
 
